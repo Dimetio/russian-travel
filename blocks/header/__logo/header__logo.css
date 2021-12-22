@@ -1,4 +1,4 @@
-.header__logo svg {
+.header__logo {
   display: block;
   max-width: 176px;
   max-height: 52px;
@@ -7,7 +7,7 @@
 }
 
 @media (max-width: 320px) {
-  .header__logo svg {
+  .header__logo {
     max-width: 142px;
     max-height: 42px;
   }
