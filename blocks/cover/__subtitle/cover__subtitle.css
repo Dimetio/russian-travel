@@ -1,0 +1,12 @@
+.cover__subtitle {
+  color: #fff;
+  font: normal 400 18px/22px 'Inter', sans-serif;
+  margin: 0;
+}
+
+
+@media (max-width: 767px) {
+  .cover__subtitle {
+    font: normal 400 14px/16px 'Inter', sans-serif;
+  }
+}

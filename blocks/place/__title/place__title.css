@@ -1,0 +1,20 @@
+.place__title {
+  color: #fff;
+  font: normal 900 72px/76px 'Inter', 'Arial', sans-serif;
+  margin: 0;
+  grid-row: 1;
+  grid-column: 1;
+}
+
+@media (max-width: 768px) {
+  .place__title {
+    font: normal 900 42px/46px 'Inter', 'Arial', sans-serif;
+  }
+}
+
+@media (max-width: 320px) {
+  .place__title {
+    margin: 0 16px;
+    font: normal 900 32px/35px 'Inter', 'Arial', sans-serif;
+  }
+}

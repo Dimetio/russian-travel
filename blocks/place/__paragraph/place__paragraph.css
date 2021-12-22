@@ -1,0 +1,15 @@
+.place__paragraph {
+  color: #fff;
+  font: normal 400 18px/29px 'Inter', 'Arial', sans-serif;
+  margin: 0;
+}
+
+.place__paragraph+.place__paragraph {
+  margin-top: 25px;
+}
+
+@media (max-width: 768px) {
+  .place__paragraph {
+    font: normal 400 16px/26px 'Inter', 'Arial', sans-serif;
+  }
+}

@@ -1,0 +1,12 @@
+.cover__wrap {
+  position: absolute;
+  max-width: 560px;
+  width: 100%;
+  text-align: center;
+}
+
+@media (max-width: 320px) {
+  .cover__wrap {
+    max-width: 288px;
+  }
+}
