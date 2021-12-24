@@ -32,4 +32,4 @@
 
   }
 ```
-* [Ссылка на github pages](https://dimetio.github.io/PR2/)
+* [Ссылка на github pages](https://dimetio.github.io/projects/PR2/)
