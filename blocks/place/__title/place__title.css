@@ -12,7 +12,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .place__title {
     margin: 0 16px;
     font: normal 900 32px/35px 'Inter', 'Arial', sans-serif;

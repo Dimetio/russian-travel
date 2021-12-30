@@ -1,9 +1,15 @@
 .header {
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: space-between;
   padding: 28px 48px 0;
   margin-bottom: 56px;
+}
+
+@media (max-width: 1024px) {
+  .header {
+    margin-bottom: 48px;
+  }
 }
 
 @media (max-width: 768px) {

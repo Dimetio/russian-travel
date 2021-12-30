@@ -19,6 +19,7 @@
 @media (max-width: 768px) {
   .intro {
     margin: 0 24px 88px;
+    max-width: 720px;
   }
 }
 

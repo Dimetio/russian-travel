@@ -1,4 +1,9 @@
 .place__link {
   color: #fff;
   font: normal 400 18px/22px 'Inter', 'Arial', sans-serif;
+  transition: all .3s;
+}
+
+.place__link:hover {
+  opacity: .8;
 }

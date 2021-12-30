@@ -1,7 +1,9 @@
 .cover__title {
   color: #fff;
   font: normal 900 72px/76px 'Inter', sans-serif;
-  margin: 0 0 32px;
+  margin: 0 auto 32px;
+  max-width: 560px;
+  text-align: center;
 }
 
 @media (max-width: 767px) {
