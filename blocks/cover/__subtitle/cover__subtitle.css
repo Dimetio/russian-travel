@@ -10,5 +10,6 @@
 @media (max-width: 767px) {
   .cover__subtitle {
     font: normal 400 14px/16px 'Inter', sans-serif;
+    max-width: 288px;
   }
 }

@@ -3,7 +3,8 @@
   align-items: flex-end;
   justify-content: space-between;
   padding: 28px 48px 0;
-  margin-bottom: 56px;
+  margin: 0 auto 56px;
+  max-width: 1184px;
 }
 
 @media (max-width: 1024px) {
@@ -15,6 +16,7 @@
 @media (max-width: 768px) {
   .header {
     padding: 28px 24px 0;
+    max-width: 720px;
   }
 }
 
@@ -22,5 +24,6 @@
   .header {
     padding: 16px 16px 0;
     margin-bottom: 48px;
+    max-width: 288px;
   }
 }

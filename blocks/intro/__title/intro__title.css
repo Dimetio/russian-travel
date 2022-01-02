@@ -4,7 +4,7 @@
   margin: 0 0 40px;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .intro__title {
     font: normal 900 32px/35px 'Inter', sans-serif;
   }

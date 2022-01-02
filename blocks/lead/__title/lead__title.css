@@ -10,5 +10,6 @@
   .lead__title {
     font: normal 900 40px/44px 'Inter', Arial,  sans-serif;
     margin-bottom: 16px;
+    max-width: 288px;
   }
 }

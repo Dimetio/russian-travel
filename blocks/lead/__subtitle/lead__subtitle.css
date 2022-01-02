@@ -16,5 +16,6 @@
   .lead__subtitle {
     font: normal 400 16px/20px 'Inter', Arial, sans-serif;
     margin-bottom: 40px;
+    max-width: 288px;
   }
 }
